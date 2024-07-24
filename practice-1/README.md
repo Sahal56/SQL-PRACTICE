@@ -3,7 +3,7 @@
 
 1. SETUP
 
-## 1.1 Login inrto MySql Via CLI
+## 1.1 Login into MySql Via CLI
 > Make sure mysql server is running
 
 ```sh
